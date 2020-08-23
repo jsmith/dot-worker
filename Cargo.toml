@@ -1,0 +1,13 @@
+[package]
+name = "dot-worker"
+version = "0.1.0"
+authors = ["Jacob Smith <jsmith@hey.com>"]
+license = "MIT OR Apache-2.0"
+description = "An extremely customized tool for managing my dotfiles."
+readme = "README.md"
+homepage = "https://github.com/jsmith/dot-worker"
+repository = "https://github.com/jsmith/dot-worker"
+keywords = ["cli", "dotfiles", "management"]
+categories = ["command-line-utilities"]
+
+[dependencies]
